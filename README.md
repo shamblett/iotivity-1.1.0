@@ -1,0 +1,1 @@
+The Iotivity 1.1.0 release hosted heer to allow for changed made to build this on F23+
